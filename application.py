@@ -5,7 +5,7 @@ application = Flask(__name__)
 
 @application.route("/")
 def hello():
-    return "Hello from vv8b6w8t Elastic Beanstalk CI-CD"
+    return "Hello from vv8b6w8t Elastic Beanstalk CI-CD verification-202610231410256900"
 
 
 if __name__ == "__main__":
